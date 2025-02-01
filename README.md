@@ -1,13 +1,24 @@
 # DAY 1
-dfggfdgfdgfdgfd
-gdfg
-fdgdfgfd
-gdfg
-fd
-g
-fd
-g
-fdgfdgdfgfdgfdgfdgdf
+ I
+ I
+M
+ G
+Day 1 LAB 1
+ IMG
+Day 1 Lab2
+ IMG
+Day 1 Lab 3
+ IMG
+Day 1 Lab 4 
+https://github.com/efabless/OpenLane
+ IMG
+ IMG
+Day1 Lab 5
+No of Cells: 14876
+dfxtp_2 = 1613
+Flop ratio = 10.8429
+
+
 # Day 2
 Width & Height of the Core and Die
 Utilization factor = Area of Netlist / Area of Core
