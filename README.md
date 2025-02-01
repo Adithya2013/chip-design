@@ -70,6 +70,8 @@ Placement
  
 ![IMG 11](https://github.com/user-attachments/assets/34d1442d-f1f1-492a-b33f-f11d80ef55c2)
 
+# DAY 3
 
+Git Clone lab
 
-
+![IMG 12](https://github.com/user-attachments/assets/bb42c7ae-07a2-484f-bd45-22631de2df54)
