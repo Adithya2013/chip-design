@@ -80,3 +80,6 @@ SPICE file generation
 
 ![IMG 13](https://github.com/user-attachments/assets/64f45cd0-8f36-4c29-8497-de69aa02aebf)
 
+NG SPICE WAVEFORM
+
+![IMG 14](https://github.com/user-attachments/assets/47cbf5c0-56d9-4585-841e-a34747d6a319)
