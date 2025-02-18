@@ -75,3 +75,8 @@ Placement
 Git Clone lab
 
 ![IMG 12](https://github.com/user-attachments/assets/bb42c7ae-07a2-484f-bd45-22631de2df54)
+
+SPICE file generation
+
+![IMG 13](https://github.com/user-attachments/assets/64f45cd0-8f36-4c29-8497-de69aa02aebf)
+
